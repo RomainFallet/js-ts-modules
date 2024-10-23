@@ -1,1 +1,3 @@
-console.log("Module 1");
+$(document).ready(() => {
+  console.log("Module 1");
+});
